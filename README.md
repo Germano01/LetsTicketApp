@@ -1,6 +1,6 @@
-# trab
+# Let's Ticket App
 
-A new Flutter project.
+Projeto desenvolvido para a disciplina de mobile
 
 ## Getting Started
 
